@@ -1,0 +1,4 @@
+failure_mode,count,of_total,pct
+"Clean negative (not retrieved, not triggered)",22,35,62.9%
+Faithful write (clean injection),10,35,28.6%
+"Retrieved, ignored",3,35,8.6%
