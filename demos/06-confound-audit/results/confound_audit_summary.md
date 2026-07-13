@@ -6,6 +6,8 @@
 
 | Quantization | Injection Success | Retrieval Rate | Trigger Success (ASR) |
 |---|---|---|---|
+|  | 1.00 | 0.90 | 0.90 |
+|  | 1.00 | 0.50 | 0.40 |
 |  | 1.00 | 0.50 | 0.50 |
 
 ---
