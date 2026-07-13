@@ -24,8 +24,8 @@ import common.config as common_config  # noqa: E402
 #   ollama pull llama3.2:3b-instruct-fp16
 MODEL_TAGS = {
     "Q4_0": "llama3.2:3b-instruct-q4_0",
-    # "Q8_0": "llama3.2:3b-instruct-q8_0",
-    # "FP16": "llama3.2:3b-instruct-fp16",
+    "Q8_0": "llama3.2:3b-instruct-q8_0",
+    "FP16": "llama3.2:3b-instruct-fp16",
 }
 
 OLLAMA_HOST = "http://localhost:11434"

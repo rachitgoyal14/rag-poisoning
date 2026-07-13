@@ -1,2 +1,4 @@
 Precision,N,injection_success,retrieval_rate,trigger_success
-Q4_0,10,1.00,0.50,0.50
+Q4_0,10,1.00,0.90,0.90
+Q8_0,10,1.00,0.50,0.40
+FP16,10,1.00,0.50,0.50
